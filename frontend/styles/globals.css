@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply text-4xl font-semibold;
+    }
+    body {
+        @apply bg-gradient-to-b from-slate-100 to-slate-200;
+    }
+}
