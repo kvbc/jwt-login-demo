@@ -8,7 +8,7 @@ next.js login demo using JWT
 3. Open up `localhost:3000` in your browser
 4. Enjoy
 
-![](github/1.PNG)
-![](github/2.PNG)
-![](github/3.PNG)
-![](github/4.PNG)
+a | b
+- | -
+![](github/1.PNG) | ![](github/2.PNG)
+![](github/3.PNG) | ![](github/4.PNG)
